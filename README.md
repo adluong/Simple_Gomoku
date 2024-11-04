@@ -22,3 +22,6 @@ g++ main.c -o gomoku -lncurses
 NOTE: open the terminal in fullscreen mode to ensure that the game runs correctly.
 
 Thanks.
+
+
+![image](https://github.com/user-attachments/assets/b90fc7a4-6f90-443b-95cb-2f259ad06ce4)
