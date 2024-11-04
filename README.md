@@ -20,4 +20,5 @@ g++ main.c -o gomoku -lncurses
 ./gomoku
 ```
 NOTE: open the terminal in fullscreen mode to ensure that the game runs correctly.
+
 Thanks.
